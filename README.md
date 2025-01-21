@@ -79,10 +79,6 @@ Contribuições são sempre bem-vindas! Para contribuir:
 
 ---
 
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE). Consulte o arquivo de licença para mais detalhes.
-
 ---
 
 ## Aviso Legal
